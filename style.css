@@ -1,0 +1,40 @@
+h1{
+    text-transform:uppercase;
+    text-decoration: underline;
+    font-size: 18px;
+    margin-left: 30%;
+}
+body pre{
+    background-color: rgb(229, 198, 198);
+    font-size: 12px;
+
+}
+ul li{
+    list-style-type: circle ;
+
+}
+caption{
+    text-align: center;
+}
+table{
+    display:block;
+    margin:auto;
+}
+td, th{
+    border: 1px solid black;
+}
+.salmon{
+    background-color: salmon;
+}
+.gold{
+    background-color: gold;
+}
+.forms{
+    width: 50%;
+    align-content: center;
+    display: block;
+    margin:auto;
+    line-height:10px;
+    margin-top: 20px;
+
+}
